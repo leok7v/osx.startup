@@ -1,2 +1,2 @@
-# osx.startup
-simple osx startup only code (no rendering)
+# osx.app
+minimalistic osx application
