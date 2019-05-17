@@ -1,2 +1,2 @@
-# osx.app
-minimalistic osx application
+# osx.startup
+minimalistic osx application w/o any rendering
